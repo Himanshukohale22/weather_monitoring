@@ -1,5 +1,5 @@
 # weather_monitoring
-demo 
+
 AIM: weather monitoring by Arduino-uno
 
 COMPONENTS:
